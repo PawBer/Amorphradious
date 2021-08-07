@@ -8,3 +8,10 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+.vs/
